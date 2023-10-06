@@ -1,0 +1,4 @@
+erlang 24.3.4
+elixir 1.14.2-otp-24
+terraform 1.3.6
+postgres 14.4
